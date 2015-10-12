@@ -1,0 +1,24 @@
+@media all and (max-width: 720px) {
+
+.results_left{
+	width:85%;
+	float:none;
+	position:relative;
+	left:10%;
+	margin-right:0px;
+}
+.results_right{
+	width:85%; 
+	float:none;
+	position:relative;
+	left:10%;
+}
+
+}
+@media all and (max-width: 480px) {
+	.results{
+		top:20px;
+		margin-bottom:10px;
+	}
+	
+}
